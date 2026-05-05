@@ -17,9 +17,11 @@
 - Complex Analysis
 - Functional Analysis
 - Measure Theory
+  https://www.youtube.com/watch?v=h_CFMtRQiek
 - Harmonic Analysis
 
 ## Geometry
+https://www.youtube.com/@actoflearning6284/videos
 - Euclidean Geometry
 - Analytic Geometry
 - Algebraic Geometry
@@ -34,6 +36,9 @@
 ## Topology
 - Point-Set Topology
 - General Topology
+  https://www.youtube.com/watch?v=IQqtsm-bBRU&t=1510s&pp=ygUObUFOSU0gVE9QT0xPR1k%3D
+  https://www.youtube.com/watch?v=rEOu8vpnq6I&pp=ygUObUFOSU0gVE9QT0xPR1k%3D
+  
 - Algebraic Topology
 - Differential Topology
 - Homotopy Theory
